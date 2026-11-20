@@ -1,4 +1,7 @@
 # AE-7 Control
+<img width="1174" height="825" alt="Снимок экрана 2026-11-20 235037" src="https://github.com/user-attachments/assets/483294be-25cc-4e9d-be25-db642222e582" />
+<img width="2559" height="1408" alt="Снимок экрана 2026-11-20 235017" src="https://github.com/user-attachments/assets/30edbdd9-7ad9-408e-8e9f-ef8fbad3e594" />
+
 
 An unofficial utility for the Creative Sound Blaster AE-7 for Windows. Output switching and basic audio settings are combined in a single window.
 
